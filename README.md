@@ -1,5 +1,5 @@
-Learning more Rails
+Rails contact app
 ==
 
-Learning more Rails with the RailsApp project
+Rails contact application
 
